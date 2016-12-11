@@ -10,5 +10,3 @@ action 一般划分为功能动作和ui动作
 
 action定义好了，接下来我们需要定义state和reducers，initState存放的位置是consts目录的model.js
 而reducers还是和action对应划分模式一样，分为data和ui两种类型，通过index.js抛出接口
-
-项目完成
